@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia_game", "Trivia_game\Trivia_game.csproj", "{944B7195-214B-41CF-8492-5356F8A86284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944B7195-214B-41CF-8492-5356F8A86284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944B7195-214B-41CF-8492-5356F8A86284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944B7195-214B-41CF-8492-5356F8A86284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944B7195-214B-41CF-8492-5356F8A86284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD43DFF-8480-4807-B76F-837C91D897E3}
+	EndGlobalSection
+EndGlobal
